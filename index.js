@@ -9,4 +9,3 @@ document.getElementById("but").onclick = function() {
   }
 }
 
-localStorage.setItem("cw", document.getElementById("c/w").innerHTML)
